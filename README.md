@@ -72,7 +72,7 @@ Labels and detects specific events in the video data, displaying these events fo
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
-For any questions or suggestions, please reach out to [your-email@example.com].
+For any questions or suggestions, please reach out to [21211a7234@bvrit.ac.in].
 
 ---
 
